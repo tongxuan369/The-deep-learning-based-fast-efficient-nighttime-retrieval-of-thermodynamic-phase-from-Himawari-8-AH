@@ -1,1 +1,2 @@
-# The deep-learning-based fast efficient nighttime retrieval of thermodynamic phase from Himawari-8 AHI measurements
+# Four deep learning algorithms used in this research.
+
